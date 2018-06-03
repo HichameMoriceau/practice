@@ -1,3 +1,3 @@
 # Project practice
 
-Great readme
+Amazing readme
